@@ -3,8 +3,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/mayson-santos-silva-a61543144)
 
 ![Mayson GitHub stats](https://github-readme-stats.vercel.app/api?username=maynmk&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maynmk&layout=pie)](https://github.com/maynmk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maynmk&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/maynmk/github-readme-stats)
 
 
 ## Tecnologias 
